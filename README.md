@@ -1,4 +1,4 @@
-# CrewLogix Assignment
+# CrewLogix Assignment (Flutter 3.10.5 SDK)
 
 Uzair Aslam Flutter Developer
 

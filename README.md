@@ -1,6 +1,9 @@
-# assignment
+# CrewLogix Assignment
 
-A new Flutter project.
+Uzair Aslam Flutter Developer
+
+![new Desgin](https://github.com/iuzairaslam/Uzair_Aslam_Crewlogix_Assignment/assets/89253314/4c1a607f-4274-43cb-8ac0-ed213d170e3e)
+
 
 ## Getting Started
 

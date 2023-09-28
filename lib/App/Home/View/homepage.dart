@@ -47,7 +47,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     :homeVM.moviesList.isNotEmpty? MoviesList(
                         moviesList: homeVM.moviesList.value,
 
-                      ):const Text("No Movies Found"))),
+                      ):Center(child: const Text("No Movies Found")))),
             h20,
             h20,
           ],

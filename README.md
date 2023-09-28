@@ -1,6 +1,4 @@
-# assignment
-
-CrewLogix Assignment
+# CrewLogix Assignment
 
 Uzair Aslam Flutter Developer
 
